@@ -65,7 +65,7 @@ const GAMES = [
   },
 ];
 
-export const Homepage = () => {
+export const HomePage = () => {
   return (
     <div className="home-page">
       {GAMES.map((game) => (

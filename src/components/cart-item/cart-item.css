@@ -9,3 +9,7 @@
     display: flex;
     align-items: center;
 }
+.cart-item__delete-icon {
+    margin-left: 5px;
+    cursor:pointer
+}
